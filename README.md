@@ -1,14 +1,11 @@
-# Hello, I'm CHANGEME
+# Hello, my name is Courtney. 
 <a href="https://www.linkedin.com/in/courtney-wright03/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[Brief Introduction - Remove this afterwards]
 
 Currently, I am a Security Analyst that focuses on spotting Phishing attacks. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
 I am career changer, I use to focus on health and the human body. Now, I am passionate about computers and helping companies maintain a healthy state. I am eager to transition in this field, specifically aiming to join a team as a Security Analyst III (Threat Hunter).  
+
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
