@@ -4,7 +4,7 @@
 Currently, I am a Security Analyst that focuses on spotting Phishing attacks. 
 
 ## Objective
-I am career changer, I use to focus on health and the human body. Now, I am passionate about computers and helping companies maintain a healthy state. I am eager to transition in this field, specifically aiming to join a team as a Threat Hunter or Detection Engineer.  
+I am career changer, I used to focus on health and the human body. Now, I am passionate about computers and helping companies maintain a healthy state. I am eager to transition in this field, specifically aiming to join a team as a Threat Hunter or Detection Engineer.  
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
