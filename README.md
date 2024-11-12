@@ -4,7 +4,7 @@
 Currently, I am a Security Analyst that focuses on spotting Phishing attacks. 
 
 ## Objective
-I am career changer, I use to focus on health and the human body. Now, I am passionate about computers and helping companies maintain a healthy state. I am eager to transition in this field, specifically aiming to join a team as a Security Analyst III (Threat Hunter).  
+I am career changer, I use to focus on health and the human body. Now, I am passionate about computers and helping companies maintain a healthy state. I am eager to transition in this field, specifically aiming to join a team as a Threat Hunter or Detection Engineer.  
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -26,8 +26,6 @@ I am career changer, I use to focus on health and the human body. Now, I am pass
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
