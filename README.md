@@ -1,18 +1,13 @@
 # Hello, my name is Courtney. 
 <a href="https://www.linkedin.com/in/courtney-wright03/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Currently, I am a Security Analyst that focuses on spotting Phishing attacks. 
+Currently, I am a Security Analyst that focuses on spotting various attacks. I am interested in Phishing, Threat Hunting, and Detection Engineering. 
 
 ## Objective
-I am career changer, I used to focus on health and the human body. Now, I am passionate about computers and helping companies maintain a healthy state. I am eager to transition in this field, specifically aiming to join a team as a Threat Hunter or Detection Engineer.  
+I am career changer, I used to focus on health and the human body. Now, I am passionate about computers and helping companies maintain a healthy state. I am eager to transition in this field and continue to my findings to the Cyber community. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
